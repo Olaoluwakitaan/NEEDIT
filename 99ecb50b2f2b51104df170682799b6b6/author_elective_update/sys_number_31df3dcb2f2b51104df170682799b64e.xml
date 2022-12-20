@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_941292_needit_ap_needit">x_941292_needit_ap_needit</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>NEE</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-08 08:34:18</sys_created_on>
+        <sys_id>31df3dcb2f2b51104df170682799b64e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NEE</sys_name>
+        <sys_package display_value="NEEDIT APPLICATION" source="x_941292_needit_ap">99ecb50b2f2b51104df170682799b6b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NEEDIT APPLICATION">99ecb50b2f2b51104df170682799b6b6</sys_scope>
+        <sys_update_name>sys_number_31df3dcb2f2b51104df170682799b64e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-08 08:34:18</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NEEDIT APPLICATION">99ecb50b2f2b51104df170682799b6b6</application>
+        <file_path/>
+        <instance_id>52eccbf8db3e9ddc9df22f17d49619c7</instance_id>
+        <instance_name>dev142635</instance_name>
+        <name>sys_number_31df3dcb2f2b51104df170682799b64e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_941292_needit_ap_needit">x_941292_needit_ap_needit</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>NEE</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-08 08:34:18</sys_created_on><sys_id>31df3dcb2f2b51104df170682799b64e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NEE</sys_name><sys_package display_value="NEEDIT APPLICATION" source="x_941292_needit_ap">99ecb50b2f2b51104df170682799b6b6</sys_package><sys_policy/><sys_scope display_value="NEEDIT APPLICATION">99ecb50b2f2b51104df170682799b6b6</sys_scope><sys_update_name>sys_number_31df3dcb2f2b51104df170682799b64e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-08 08:34:18</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>-597813208</payload_hash>
+        <record_name>NEE</record_name>
+        <reverted_from/>
+        <source>59ecb50b2f2b51104df170682799b6b8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-08 08:34:18</sys_created_on>
+        <sys_id>fddf3dcb2f2b51104df170682799b654</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184f0df048b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-08 08:34:18</sys_updated_on>
+        <type>Number</type>
+        <update_guid>39df3dcbe52b5110645ec94255689954</update_guid>
+        <update_guid_history>39df3dcbe52b5110645ec94255689954:-597813208</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-12 07:19:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>1865ac6cee904d9096ce5a6a85da1010</sys_id>
+        <sys_metadata>31df3dcb2f2b51104df170682799b64e</sys_metadata>
+        <sys_name>NEE</sys_name>
+        <sys_package display_value="NEEDIT APPLICATION" source="x_941292_needit_ap">99ecb50b2f2b51104df170682799b6b6</sys_package>
+        <sys_parent display_value="">04bd7d4b2f2b51104df170682799b6e1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NEEDIT APPLICATION">99ecb50b2f2b51104df170682799b6b6</sys_scope>
+        <sys_scope_delete display_value="">421e8da67c2347a496da629d08ae5f90</sys_scope_delete>
+        <sys_update_name>sys_number_31df3dcb2f2b51104df170682799b64e</sys_update_name>
+        <sys_update_version display_value="sys_number_31df3dcb2f2b51104df170682799b64e">fddf3dcb2f2b51104df170682799b654</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

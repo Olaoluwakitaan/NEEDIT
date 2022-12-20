@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="f0b3d2542fff11104df170682799b6ea" extends="task" max_length="40" name="x_941292_needit_ap_needit" type="collection">
+        <element label="New Field" max_length="40" name="new_field" type="integer"/>
+        <element label="New Field 2" max_length="40" name="new_field_2" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="When needed" mandatory="true" max_length="40" name="u_glide_date_time_2" type="glide_date_time"/>
+        <element label="New Field 3" max_length="40" name="u_integer_1" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Demo</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-12 08:28:41</sys_created_on>
+        <sys_id>3ae4e6542f3351104df170682799b602</sys_id>
+        <sys_name>Demo</sys_name>
+        <sys_package display_value="NEEDIT APPLICATION" source="x_941292_needit_ap">99ecb50b2f2b51104df170682799b6b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NEEDIT APPLICATION">99ecb50b2f2b51104df170682799b6b6</sys_scope>
+        <sys_update_name>sys_ui_view_3ae4e6542f3351104df170682799b602</sys_update_name>
+        <title>Demo</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_request_type" table="x_941292_needit_ap_needit" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_request_type</element>
+            <name>x_941292_needit_ap_needit</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-08 09:38:20</sys_created_on>
+            <sys_name>u_request_type</sys_name>
+            <sys_package display_value="NEEDIT APPLICATION" source="x_941292_needit_ap">99ecb50b2f2b51104df170682799b6b6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NEEDIT APPLICATION">99ecb50b2f2b51104df170682799b6b6</sys_scope>
+            <sys_update_name>sys_choice_x_941292_needit_ap_needit_u_request_type</sys_update_name>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
